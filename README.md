@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Shakeel-At-Risk
-- 👀 I’m interested in Statistics.
+- 👋 Hi, welcome to my early projects.
+- 😅 There won't be much here for a while.
+- 👀 I’m interested in Statistical Methods.
 - 🌱 I’m currently learning Econometrics.
 - 💞️ I’m looking to collaborate on minor statistics projects.
 - 📫 Feel free to reach out using associated links!
