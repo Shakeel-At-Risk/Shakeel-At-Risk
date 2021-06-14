@@ -1,4 +1,5 @@
 Hi, welcome to my early projects. There won't be much here for a while.
+
 This git will be used so I can familiarise myself with git, and to keep record of my learning.
 
 I’m interested in Statistical Methods, Econometrics and Mathematical Optimisation.
